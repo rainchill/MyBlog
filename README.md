@@ -8,7 +8,7 @@
 
 使用 [netlify](https://www.netlify.com/) 构建，访问站点: https://zingx.netlify.app/
 
-### Local Development
+## Local Development
 
 ```
 $ npm install
