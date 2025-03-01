@@ -27,7 +27,7 @@ tags: [JavaScript]
 
 ## 示例
 
-```javascrpt
+```javascript
 let obj1 = { name: "Alice" }; // 创建一个对象
 let obj2 = obj1; // obj2 引用 obj1 指向的对象
 

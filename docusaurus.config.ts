@@ -82,7 +82,7 @@ const config: Config = {
         },
         { to: "/blog", label: "博客", position: "right" },
         {
-          href: "https://github.com/rainchill",
+          href: "https://github.com/rainchill/MyBlog",
           label: "GitHub",
           position: "right",
         },
