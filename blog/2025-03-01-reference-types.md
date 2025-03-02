@@ -1,9 +1,10 @@
 ---
 slug: reference-types
-title: 引用类型为什么叫引用类型
 authors: [rainchill]
 tags: [JavaScript]
 ---
+
+# 引用类型为什么叫引用类型
 
 在 JavaScript 中，引用类型（Reference Types） 被称为“引用类型”，是因为它们存储的不是实际的数据值，而是对数据的引用。这种引用指向内存中的实际数据存储位置。换句话说，引用类型变量保存的是一个指向实际数据的“指针”或“引用”，而不是数据本身。
 

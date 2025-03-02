@@ -137,6 +137,11 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    // 显示 h2 到 h5 标题
+    tableOfContents: {
+      minHeadingLevel: 2,
+      maxHeadingLevel: 5,
+    },
   } satisfies Preset.ThemeConfig,
 };
 
