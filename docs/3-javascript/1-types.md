@@ -9,7 +9,7 @@ toc_max_heading_level: 3
 
 在 JavaScript 中，有多种数据类型，这些类型可以分为两大类：**原始类型（Primitive Types）** 和 **引用类型（Reference Types）**。
 
-关于 `String` 和 `string`、`Number` 和 `number`、`Obeject` 和 `object` 等的区别可以看 [object 与 Object](./object/object-Object.md) 以及 [string 与 String](./object/string-String.md)
+关于 `String` 和 `string`、`Number` 和 `number`、`Obeject` 和 `object` 等的区别可以看 [object 与 Object](./2-object/6-object-Object.md) 以及 [string 与 String](./2-object/7-string-String.md)
 
 ## 原始类型（Primitive Types）
 
